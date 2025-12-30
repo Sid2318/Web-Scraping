@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+
+# Output
+all_products_output.json
+amazon_output.json
+flipkart_output.json
+
+# VSCode
+.vscode/
