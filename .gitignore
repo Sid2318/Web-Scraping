@@ -18,7 +18,6 @@ Thumbs.db
 .env.*
 
 # Output
-all_products_output.json
 amazon_output.json
 flipkart_output.json
 
